@@ -35,7 +35,16 @@ From States 1–3, the following transitions apply:
 
 - PB0 → Frequency Counter  
 - PB1 → Stopwatch  
-- PB2 → PWM Buzzer  
+- PB2 → PWM Buzzer
+- 
+### 📉 FSM Diagram
+
+The following diagram provides a clear visual representation of the system’s states and the transitions triggered by pushbuttons:
+
+![FSM Diagram](DCS_Task2_FSM.png)
+
+---
+
 
 ## 📦 File Structure
 
