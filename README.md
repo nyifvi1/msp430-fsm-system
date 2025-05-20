@@ -43,6 +43,8 @@ The following diagram provides a clear visual representation of the system’s s
 
 ![FSM Diagram](DCS_Task2_FSM.png)
 
+[Project Documentation](DCS_Task2.pdf)
+
 ---
 
 
