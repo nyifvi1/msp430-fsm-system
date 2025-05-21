@@ -4,7 +4,7 @@ This project implements a **multi-mode embedded system** on the MSP430G2553 micr
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Mode 1: Frequency Counter (PB0)
 - Measures input signal frequency using **Timer_A1 Input Capture**.
